@@ -1,8 +1,8 @@
 {
     "player": [{
             "nome": "Lebron James",
-            "id": 23,
-            "numero": 23,
+            "id": 1,
+            "numeroCamisa": 23,
             "clube": "Los Angeles Lakers",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -14,8 +14,8 @@
         },
         {
             "nome": "Sthephen Curry",
-            "id": 30,
-            "numero": 30,
+            "id": 2,
+            "numeroCamisa": 30,
             "clube": "Golden State Warriors",
             "posição": "Armador",
             "conferencia": "Oeste",
@@ -27,8 +27,8 @@
         },
         {
             "nome": "Kawhi Leonard",
-            "id": 2,
-            "numero": 2,
+            "id": 3,
+            "numeroCamisa": 2,
             "clube": "Los Angeles Clippers",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -40,8 +40,8 @@
         },
         {
             "nome": "Anthony Davis",
-            "id": 3,
-            "numero": 3,
+            "id": 4,
+            "numeroCamisa": 3,
             "clube": "Los Angeles Lakers",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -53,8 +53,8 @@
         },
         {
             "nome": "Luka Doncic",
-            "id": 77,
-            "numero": 77,
+            "id": 5,
+            "numeroCamisa": 77,
             "clube": "Dallas Mavericks",
             "posição": "Armador",
             "conferencia": "Oeste",
@@ -66,8 +66,8 @@
         },
         {
             "nome": "Devin Booker",
-            "id": 1,
-            "numero": 1,
+            "id": 6,
+            "numeroCamisa": 1,
             "clube": "Phoenix Suns",
             "posição": "Armador",
             "conferencia": "Oeste",
@@ -80,7 +80,7 @@
         {
             "nome": "Kevin Durant",
             "id": 7,
-            "numero": 7,
+            "numeroCamisa": 7,
             "clube": "Phoenix Suns",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -92,8 +92,8 @@
         },
         {
             "nome": "Paul George",
-            "id": 13,
-            "numero": 13,
+            "id": 8,
+            "numeroCamisa": 13,
             "clube": "Los Angeles Clippers",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -105,8 +105,8 @@
         },
         {
             "nome": "Zion Williamson",
-            "id": 1,
-            "numero": 1,
+            "id": 9,
+            "numeroCamisa": 1,
             "clube": "New Orleans Pelicans",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -118,8 +118,8 @@
         },
         {
             "nome": "Damian Lillard",
-            "id": 0,
-            "numero": 0,
+            "id": 10,
+            "numeroCamisa": 0,
             "clube": "Portland Trail Blazers",
             "posição": "Armador",
             "conferencia": "Oeste",
@@ -131,8 +131,8 @@
         },
         {
             "nome": "Nikola Jokic",
-            "id": 15,
-            "numero": 15,
+            "id": 11,
+            "numeroCamisa": 15,
             "clube": "Denver Nuggets",
             "posição": "Ala",
             "conferencia": "Oeste",
@@ -144,8 +144,8 @@
         },
         {
             "nome": "Jaylen Brown",
-            "id": 7,
-            "numero": 7,
+            "id": 12,
+            "numeroCamisa": 7,
             "clube": "Boston Celtics",
             "posição": "Ala",
             "conferencia": "Leste",
@@ -157,8 +157,8 @@
         },
         {
             "nome": "Khris Middleton",
-            "id": 22,
-            "numero": 22,
+            "id": 13,
+            "numeroCamisa": 22,
             "clube": "Milwaukee Bucks",
             "posição": "Ala",
             "conferencia": "Leste",
@@ -171,8 +171,8 @@
 
         {
             "nome": "Jimmy Butler",
-            "id": 22,
-            "numero": 22,
+            "id": 14,
+            "numeroCamisa": 22,
             "clube": "Miami Heat",
             "posição": "Ala",
             "conferencia": "Leste",
@@ -184,8 +184,8 @@
         },
         {
             "nome": "Joel Embiid",
-            "id": 21,
-            "numero": 21,
+            "id": 15,
+            "numeroCamisa": 21,
             "clube": "Philadelphia 76ers",
             "posição": "Ala",
             "conferencia": "Leste",
@@ -197,8 +197,8 @@
         },
         {
             "nome": "Giannis Antetokounmpo",
-            "id": 34,
-            "numero": 34,
+            "id": 16,
+            "numeroCamisa": 34,
             "clube": "Milwaukee Bucks",
             "posição": "Ala",
             "conferencia": "Leste",
@@ -210,8 +210,8 @@
         },
         {
             "nome": "Donovan Mitchell",
-            "id": 45,
-            "numero": 45,
+            "id": 17,
+            "numeroCamisa": 45,
             "clube": "Cleveland Cavaliers",
             "posição": "Armador",
             "conferencia": "Leste",
@@ -223,8 +223,8 @@
         },
         {
             "nome": "Jayson Tatum",
-            "id": 0,
-            "numero": 0,
+            "id": 18,
+            "numeroCamisa": 0,
             "clube": "Boston Celtics",
             "posição": "Ala",
             "conferencia": "Leste",
@@ -237,8 +237,8 @@
 
         {
             "nome": "Bradley Beal",
-            "id": 3,
-            "numero": 3,
+            "id": 19,
+            "numeroCamisa": 3,
             "clube": "Washington Wizards",
             "posição": "Armador",
             "conferencia": "Leste",
@@ -251,8 +251,8 @@
 
         {
             "nome": "Trae Young",
-            "id": 11,
-            "numero": 11,
+            "id": 20,
+            "numeroCamisa": 11,
             "clube": "Atlanta Hawks",
             "posição": "Armador",
             "conferencia": "Leste",
@@ -265,8 +265,8 @@
 
         {
             "nome": "James Harden",
-            "id": 13,
-            "numero": 13,
+            "id": 21,
+            "numeroCamisa": 13,
             "clube": "Philadelphia 76ers",
             "posição": "Armador",
             "conferencia": "Leste",
@@ -279,8 +279,8 @@
 
         {
             "nome": "Anthony Edwards",
-            "id": 0,
-            "numero": 0,
+            "id": 22,
+            "numeroCamisa": 0,
             "clube": "Minnesota Timberwolves",
             "posição": "Ala",
             "conferencia": "Leste",
