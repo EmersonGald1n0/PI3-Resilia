@@ -1,0 +1,19 @@
+{
+    "/player/list": "/player/",
+    "/player/create": "/player/",
+    "/player/update/:id": "/player/:id",
+    "/player/delete/:id": "/player/:id",
+    "/player/:id": "/player/:id",
+
+    "/treinadores/list": "/treinadores/",
+    "/treinadores/create": "/treinadores/",
+    "/treinadores/update/:id": "/treinadores/:id",
+    "/treinadores/delete/:id": "/treinadores/:id",
+    "/treinadores/:id": "/treinadores/:id",
+
+    "estadios/list": "/estadios/",
+    "estadios/create": "/estadios/",
+    "estadios/update/:id": "/estadios/:id",
+    "estadios/delete/:id": "/estadios/:id",
+    "estadios/:id": "/estadios/:id"
+}
