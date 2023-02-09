@@ -295,29 +295,25 @@
 
     "treinadores": [{
             "nome": "Doc Rivers",
-            "id": 0,
-            "numero": 0,
+            "id": 1,
             "clube": "Philadelphia 76ers",
             "conferencia": "Leste"
         },
         {
             "nome": "Mike Budenholzer",
-            "id": 0,
-            "numero": 0,
+            "id": 2,
             "clube": "Milwaukee Bucks",
             "conferencia": "Leste"
         },
         {
             "nome": "Steve Nash",
-            "id": 0,
-            "numero": 0,
+            "id": 3,
             "clube": "Brooklyn Nets",
             "conferencia": "Leste"
         },
         {
             "nome": "Monty Williams",
-            "id": 0,
-            "numero": 0,
+            "id": 4,
             "clube": "Phoenix Suns",
             "conferencia": "Oeste"
         }
@@ -325,16 +321,19 @@
 
     "estadios": [{
             "nome": "Amway Center",
+            "id": 1,
             "cidade": "Orlando",
             "capacidade": 18846
         },
         {
             "nome": "American Airlines Arena",
+            "id": 2,
             "cidade": "Miami",
             "capacidade": 19600
         },
         {
             "nome": "TD Garden",
+            "id": 3,
             "cidade": "Boston",
             "capacidade": 18624
         }
