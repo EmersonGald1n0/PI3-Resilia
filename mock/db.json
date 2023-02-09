@@ -1,3 +1,343 @@
 {
-    
+    "player": [{
+            "nome": "Lebron James",
+            "id": 23,
+            "numero": 23,
+            "clube": "Los Angeles Lakers",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 25.3,
+                "rebotes": 7.4,
+                "assistencias": 7.4
+            }
+        },
+        {
+            "nome": "Sthephen Curry",
+            "id": 30,
+            "numero": 30,
+            "clube": "Golden State Warriors",
+            "posição": "Armador",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 26.4,
+                "rebotes": 5.4,
+                "assistencias": 6.7
+            }
+        },
+        {
+            "nome": "Kawhi Leonard",
+            "id": 2,
+            "numero": 2,
+            "clube": "Los Angeles Clippers",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 26.6,
+                "rebotes": 7.3,
+                "assistencias": 3.8
+            }
+        },
+        {
+            "nome": "Anthony Davis",
+            "id": 3,
+            "numero": 3,
+            "clube": "Los Angeles Lakers",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 26.1,
+                "rebotes": 9.3,
+                "assistencias": 3.2
+            }
+        },
+        {
+            "nome": "Luka Doncic",
+            "id": 77,
+            "numero": 77,
+            "clube": "Dallas Mavericks",
+            "posição": "Armador",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 28.8,
+                "rebotes": 9.4,
+                "assistencias": 8.8
+            }
+        },
+        {
+            "nome": "Devin Booker",
+            "id": 1,
+            "numero": 1,
+            "clube": "Phoenix Suns",
+            "posição": "Armador",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 26.6,
+                "rebotes": 4.1,
+                "assistencias": 6.1
+            }
+        },
+        {
+            "nome": "Kevin Durant",
+            "id": 7,
+            "numero": 7,
+            "clube": "Phoenix Suns",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 29.3,
+                "rebotes": 6.6,
+                "assistencias": 5.9
+            }
+        },
+        {
+            "nome": "Paul George",
+            "id": 13,
+            "numero": 13,
+            "clube": "Los Angeles Clippers",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 28.0,
+                "rebotes": 8.0,
+                "assistencias": 4.0
+            }
+        },
+        {
+            "nome": "Zion Williamson",
+            "id": 1,
+            "numero": 1,
+            "clube": "New Orleans Pelicans",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 23.6,
+                "rebotes": 6.8,
+                "assistencias": 2.5
+            }
+        },
+        {
+            "nome": "Damian Lillard",
+            "id": 0,
+            "numero": 0,
+            "clube": "Portland Trail Blazers",
+            "posição": "Armador",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 28.9,
+                "rebotes": 4.4,
+                "assistencias": 7.5
+            }
+        },
+        {
+            "nome": "Nikola Jokic",
+            "id": 15,
+            "numero": 15,
+            "clube": "Denver Nuggets",
+            "posição": "Ala",
+            "conferencia": "Oeste",
+            "estatisticas": {
+                "pontos": 26.4,
+                "rebotes": 10.8,
+                "assistencias": 7.3
+            }
+        },
+        {
+            "nome": "Jaylen Brown",
+            "id": 7,
+            "numero": 7,
+            "clube": "Boston Celtics",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 23.7,
+                "rebotes": 6.3,
+                "assistencias": 3.3
+            }
+        },
+        {
+            "nome": "Khris Middleton",
+            "id": 22,
+            "numero": 22,
+            "clube": "Milwaukee Bucks",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 20.3,
+                "rebotes": 5.8,
+                "assistencias": 4.0
+            }
+        },
+
+        {
+            "nome": "Jimmy Butler",
+            "id": 22,
+            "numero": 22,
+            "clube": "Miami Heat",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 20.2,
+                "rebotes": 6.7,
+                "assistencias": 4.9
+            }
+        },
+        {
+            "nome": "Joel Embiid",
+            "id": 21,
+            "numero": 21,
+            "clube": "Philadelphia 76ers",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 23.0,
+                "rebotes": 11.0,
+                "assistencias": 3.2
+            }
+        },
+        {
+            "nome": "Giannis Antetokounmpo",
+            "id": 34,
+            "numero": 34,
+            "clube": "Milwaukee Bucks",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 29.5,
+                "rebotes": 13.6,
+                "assistencias": 5.9
+            }
+        },
+        {
+            "nome": "Donovan Mitchell",
+            "id": 45,
+            "numero": 45,
+            "clube": "Cleveland Cavaliers",
+            "posição": "Armador",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 24.1,
+                "rebotes": 4.4,
+                "assistencias": 4.0
+            }
+        },
+        {
+            "nome": "Jayson Tatum",
+            "id": 0,
+            "numero": 0,
+            "clube": "Boston Celtics",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 23.7,
+                "rebotes": 6.8,
+                "assistencias": 2.3
+            }
+        },
+
+        {
+            "nome": "Bradley Beal",
+            "id": 3,
+            "numero": 3,
+            "clube": "Washington Wizards",
+            "posição": "Armador",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 30.5,
+                "rebotes": 4.6,
+                "assistencias": 5.3
+            }
+        },
+
+        {
+            "nome": "Trae Young",
+            "id": 11,
+            "numero": 11,
+            "clube": "Atlanta Hawks",
+            "posição": "Armador",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 29.6,
+                "rebotes": 4.0,
+                "assistencias": 9.3
+            }
+        },
+
+        {
+            "nome": "James Harden",
+            "id": 13,
+            "numero": 13,
+            "clube": "Philadelphia 76ers",
+            "posição": "Armador",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 36.1,
+                "rebotes": 6.6,
+                "assistencias": 7.5
+            }
+        },
+
+        {
+            "nome": "Anthony Edwards",
+            "id": 0,
+            "numero": 0,
+            "clube": "Minnesota Timberwolves",
+            "posição": "Ala",
+            "conferencia": "Leste",
+            "estatisticas": {
+                "pontos": 19.1,
+                "rebotes": 5.2,
+                "assistencias": 2.9
+            }
+
+        }
+    ],
+
+    "treinadores": [{
+            "nome": "Doc Rivers",
+            "id": 0,
+            "numero": 0,
+            "clube": "Philadelphia 76ers",
+            "conferencia": "Leste"
+        },
+        {
+            "nome": "Mike Budenholzer",
+            "id": 0,
+            "numero": 0,
+            "clube": "Milwaukee Bucks",
+            "conferencia": "Leste"
+        },
+        {
+            "nome": "Steve Nash",
+            "id": 0,
+            "numero": 0,
+            "clube": "Brooklyn Nets",
+            "conferencia": "Leste"
+        },
+        {
+            "nome": "Monty Williams",
+            "id": 0,
+            "numero": 0,
+            "clube": "Phoenix Suns",
+            "conferencia": "Oeste"
+        }
+    ],
+
+    "estadios": [{
+            "nome": "Amway Center",
+            "cidade": "Orlando",
+            "capacidade": 18846
+        },
+        {
+            "nome": "American Airlines Arena",
+            "cidade": "Miami",
+            "capacidade": 19600
+        },
+        {
+            "nome": "TD Garden",
+            "cidade": "Boston",
+            "capacidade": 18624
+        }
+
+    ]
 }
