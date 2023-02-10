@@ -1,44 +1,45 @@
-Estão Servidos?
+# Estão Servidos? 
 
-Projeto Individual - Módulo 3
-Tema escolhido: Basketball
-Back-end: Node.js
+## Projeto Individual - Módulo 3
+## Tema escolhido: Basketball :basketball:
+## Back-end: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-Tecnologias utilizadas
+## Tecnologias utilizadas :computer:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Contextualizando o projeto
+## Contextualizando o projeto :clipboard:
 
-Você foi escolhido para desenvolver um servidor de teste
+<p>Você foi escolhido para desenvolver um servidor de teste
 que será usado nas aulas, este servidor terá que ser criado
-usando a biblioteca Json-server juntamente com o node.js.
+usando a biblioteca Json-server juntamente com o node.js.</p>
 
-O termo “Json-server” é utilizado para descrever um servidor de testes (pode
-também ser correlacionado a um garçom) que serve dados no formato Json.
+<i>O termo “Json-server” é utilizado para descrever um servidor de testes (pode
+também ser correlacionado a um garçom) que serve dados no formato Json.</i>
 
-O que é para fazer?
+## O que é para fazer? :pencil:
 
-Neste projeto, você irá desenvolver um servidor json
+<p>Neste projeto, você irá desenvolver um servidor json
 (Json-server) onde irá conter 2 ou mais rotas com 3 ou mais dados nas quais
 o usuário poderá realizar os métodos GET, POST, PUT,
-DELETE.
+DELETE.</p>
 
-Como executar o projeto?
+## Como executar o projeto? :arrow_forward:
 
-Para executar o projeto, você deverá ter instalado em sua máquina o node.js e o npm.
+* Para executar o projeto, você deverá ter instalado em sua máquina o node.js e o npm.
 Após a instalação do node.js e do npm, você deverá instalar o json-server.
 
-Para instalar o json-server, você deverá executar o seguinte comando no seu terminal:
+* Para instalar o json-server, você deverá executar o seguinte comando no seu terminal:
 npm install -g json-server
 
-Após a instalação do json-server, você deverá executar o seguinte comando no seu terminal:
+* Após a instalação do json-server, você deverá executar o seguinte comando no seu terminal:
 json-server --watch db.json
 Onde db.json é o nome do arquivo que você irá criar para armazenar os dados.
-Para acessar o servidor, você deverá acessar o seguinte endereço:
+
+* <p>Para acessar o servidor, você deverá acessar o seguinte endereço:
 http://localhost:3000/
-Onde 3000 é a porta que o servidor irá rodar.
+Onde 3000 é a porta que o servidor irá rodar.</p>
 
 Explicando o projeto:
 
