@@ -84,7 +84,7 @@ Onde :id é o id do dado que você deseja alterar ou deletar, basta substituir o
 
 Espero que gostem do projeto, qualquer dúvida, estou a disposição.
 ## Contato
-<a href="https://www.linkedin.com/in/emerson-pg/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/emerson-pg/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 ## <a href="https://www.instagram.com/yosoygaldino/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 
