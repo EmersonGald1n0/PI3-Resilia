@@ -6,7 +6,7 @@ Back-end: Node.js
 
 Tecnologias utilizadas
 
-Node.js
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 Json-server
 JavaScript
 
@@ -83,6 +83,6 @@ Onde :id é o id do dado que você deseja alterar ou deletar, basta substituir o
 Espero que gostem do projeto, qualquer dúvida, estou a disposição.
 LinkedIn: https://www.linkedin.com/in/emerson-pg/
 
-Desenvolvido por Emerson Galdino :copyright: 2023
+:copyright: Desenvolvido por Emerson Galdino 2023
 
 
