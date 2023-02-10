@@ -1,13 +1,15 @@
-# Estão Servidos? 
+# Estão Servidos?
 
-## Projeto Individual - Módulo 3
-## Tema escolhido: Basketball :basketball:
-## Back-end: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> #### Projeto Individual - Módulo 3 - Resilia Educação <p> Tema escolhido: Basketball :basketball:</p>
+
+## Status: 
+> Developing ⚠️
 
 ## Tecnologias utilizadas :computer:
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ## Contextualizando o projeto :clipboard:
 
@@ -81,8 +83,9 @@ estadios/delete/:id
 Onde :id é o id do dado que você deseja alterar ou deletar, basta substituir o :id por um número.
 
 Espero que gostem do projeto, qualquer dúvida, estou a disposição.
-LinkedIn: https://www.linkedin.com/in/emerson-pg/
+## Contato
+<a href="https://www.linkedin.com/in/emerson-pg/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
+## <a href="https://www.instagram.com/yosoygaldino/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 
 :copyright: Desenvolvido por Emerson Galdino 2023
-
-
