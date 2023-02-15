@@ -3,13 +3,11 @@
 > #### Projeto Individual - Módulo 3 - Resilia Educação <p> Tema escolhido: Basketball :basketball:</p>
 
 ## Status: 
-> Developing ⚠️
+> Complete ✅
 
 ## Tecnologias utilizadas :computer:
 
 > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 ## Contextualizando o projeto :clipboard:
 
@@ -37,52 +35,63 @@ npm install -g json-server
 
 * Após a instalação do json-server, você deverá executar o seguinte comando no seu terminal:
 json-server --watch db.json
-Onde db.json é o nome do arquivo que você irá criar para armazenar os dados.
+    <p>Onde db.json é o nome do arquivo que você irá criar para armazenar os dados.</p>
 
 * <p>Para acessar o servidor, você deverá acessar o seguinte endereço:
-http://localhost:3000/
-Onde 3000 é a porta que o servidor irá rodar.</p>
+  http://localhost:3000/</br>
+  Onde 3000 é a porta que o servidor irá rodar.</p>
 
-Explicando o projeto:
+## Explicando o projeto :question:
 
-O projeto possui 3 rodas que são: /players, /treinadores e /estadios.
-A rota /players possui 7 dados, sendo eles: id, nome, numeroCamisa, clube, posição, conferencia e estatisticas.
-A rota /treinadores possui 4 dados, sendo eles: id, nome, clube e conferencia.
+* O projeto possui 3 rotas que são: /players, /treinadores e /estadios.<br/>
+
+>A rota /players possui 7 dados, sendo eles: id, nome, numeroCamisa, clube, posição, conferencia e estatisticas.</br>
+A rota /treinadores possui 4 dados, sendo eles: id, nome, clube e conferencia.</br>
 A rota /estadios possui 4 dados, sendo eles: id, nome, cidade e capacidade.
 
-Para acessar os dados, você deverá acessar o seguinte endereço:
+### Para acessar os dados, você deverá acessar o seguinte endereço:
 
-http://localhost:3000/players
-http://localhost:3000/treinadores
-http://localhost:3000/estadios
+>http://localhost:3000/players
 
-Para utilizar o método GET, você deverá acessar o seguinte endereço:
+>http://localhost:3000/treinadores
 
-players/list
-treinadores/list
-estadios/list
+>http://localhost:3000/estadios
 
-Para utilizar o método POST, você deverá acessar o seguinte endereço:
+### Para utilizar o método GET, você deverá acessar o seguinte endereço:
 
-players/create
-treinadores/create
-estadios/create
+>players/list
 
-Para utilizar o método PUT, você deverá acessar o seguinte endereço:
+>treinadores/list
 
-players/update/:id
-treinadores/update/:id
-estadios/update/:id
+>estadios/list
 
-Para utilizar o método DELETE, você deverá acessar o seguinte endereço:
+### Para utilizar o método POST, você deverá acessar o seguinte endereço:
 
-players/delete/:id
-treinadores/delete/:id
-estadios/delete/:id
+>players/create
+
+>treinadores/create
+
+>estadios/create
+
+### Para utilizar o método PUT, você deverá acessar o seguinte endereço:
+
+>players/update/:id
+
+>treinadores/update/:id
+
+>estadios/update/:id
+
+### Para utilizar o método DELETE, você deverá acessar o seguinte endereço:
+
+>players/delete/:id
+
+>treinadores/delete/:id
+
+>estadios/delete/:id
 
 Onde :id é o id do dado que você deseja alterar ou deletar, basta substituir o :id por um número.
 
-Espero que gostem do projeto, qualquer dúvida, estou a disposição.
+### Espero que gostem do projeto, qualquer dúvida, estou a disposição. :wink:
 ## Contato
 <a href="https://www.linkedin.com/emerson-pg/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
