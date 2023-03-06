@@ -34,7 +34,7 @@ Após a instalação do node.js e do npm, você deverá instalar o json-server.
 npm install -g json-server
 
 * Após a instalação do json-server, você deverá executar o seguinte comando no seu terminal:
-json-server --watch db.json
+json-server --watch ./mock/db.json
     <p>Onde db.json é o nome do arquivo que você irá criar para armazenar os dados.</p>
 
 * <p>Para acessar o servidor, você deverá acessar o seguinte endereço:
